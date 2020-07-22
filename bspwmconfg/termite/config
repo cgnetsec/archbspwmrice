@@ -1,0 +1,50 @@
+[options]
+font = hack 9
+scrollback_lines = 10000
+hyperlinks = true
+
+[colors]
+foreground = #C7A9E2
+foreground_bold = #C7A9E2
+cursor = #C7A9E2
+# tried 1F102A, 110918 replaced with 040205 for testing on cursor foreground and color0
+cursor_foreground = #040205
+background = rgba(4, 2, 5, 0.92)
+
+# dark purple pinks
+color0 = #110a18
+color8 = #956f95
+color7 = #d59fd5
+color15 = #d59fd5
+
+#red more pinkish, might replace with B95BAE
+color1 = #A14E61
+color9 = #A14E61
+
+#hacker green
+color2 = #A88D7C
+color10 = #A88D7C
+
+# neon yellow
+color3 = #513591
+color11 = #513591
+
+# blue
+color4 = #615399
+color12 = #615399
+
+# purple
+color5 = #484BC2
+color13 = #484BC2
+
+# orange color
+color6 = #985E9E
+color14 = #985E9E
+
+# extra
+#color16 = #F78C6C
+#color17 = #FF5370
+#color18 = #444267
+#color19 = #32374D
+#color20 = #8796B0
+#color21 = #959DCB
